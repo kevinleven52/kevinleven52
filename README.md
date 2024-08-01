@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning javascript and c#
 - 💞️ I want to collaborate on an open-source project and learn from others.
 - 📫 How to reach me kelvinken5282@gmail.com
-- ⚡ Fun fact: I love results
+- ⚡ Fun fact:My favorite error message is 'Error 404: Brain Not Found'
+
 
 <!---
 kevinleven52/kevinleven52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning javascript and c#
 - 💞️ I want to collaborate on an open-source project and learn from others.
 - 📫 How to reach me kelvinken5282@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love results
 
 <!---
 kevinleven52/kevinleven52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
